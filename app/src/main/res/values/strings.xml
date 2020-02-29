@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShareToApps</string>
+    <string name="title_fn1">Share Text</string>
+    <string name="title_fn2">Share Image</string>
+    <string name="title_fn3">Share HTML</string>
+    <string name="title_activity_receiver">接收器</string>
+</resources>
